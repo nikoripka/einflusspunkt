@@ -3,7 +3,7 @@
 ![The algorithm in action](Algorithmus5.2.png)
 
 ## Abstract
-Seven particles start at once and fall down due to gravity force. Additionally, there are three dots of different sizes that have a repelling force on the particles. After a short time, the particles stop and their path becomes visible.
+Seven particles start at once and fall down due to a gravity force. Additionally, there are three dots of different sizes that exert a repelling force on the particles. After a short time, the particles stop and their path becomes visible.
 
 [See it for yourself!](http://nikoripka.github.io/einflusspunkt/)
 
