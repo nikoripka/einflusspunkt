@@ -6,7 +6,7 @@
 Seven particles start at once and fall down due to gravity force. Additionally, there are three dots of different sizes that have a repelling force on the particles. After a short time, the particles stop and their path becomes visible.
 
 ## Dependencies
-[P5.js](http://p5js.org/) "the power of Processing times the reach of JavaScript"
+[P5.js](http://p5js.org/) _"The power of Processing times the reach of JavaScript"_
 
 ## Thanks
 I would like to thank Daniel Siffman from [The Nature of Code](http://natureofcode.com/) and his helpful [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/).
