@@ -16,12 +16,6 @@ How to install the project.
 # Usage
 How to use the project.
 
-# Related works
-
-# Thanks
-
-# Contact
-
 # License
 Copyright © 2015 Nikolas Ripka
 
