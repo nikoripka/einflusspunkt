@@ -1,21 +1,17 @@
+# EINFLUSSPUNKT / Influential dots
+
 ![The algorithm in action](Algorithmus5.2.png)
 
-# Abstract
-A 
+## Abstract
+Seven particles start at once and fall down due to gravity force. Additionally, there are three dots of different sizes that have a repelling force on the particles. After a short time, the particles stop and their path becomes visible.
 
-# Prerequisites
-What is needed beforehand to run the project.
-
-# Dependencies
+## Dependencies
 [P5.js](http://p5js.org/) "the power of Processing times the reach of JavaScript"
 
-# Installation
-How to install the project.
-
-# Thanks
+## Thanks
 I would like to thank Daniel Siffman from [The Nature of Code](http://natureofcode.com/) and his helpful [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/).
 
-# License
+## License
 Copyright © 2015 Nikolas Ripka
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
