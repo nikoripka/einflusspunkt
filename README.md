@@ -10,6 +10,15 @@ Seven particles start at once and fall down due to a gravity force. Additionally
 ## Dependencies
 [P5.js](http://p5js.org/) _"The power of Processing times the reach of JavaScript"_
 
+## Usage
+There are four Javascript files (plus an html file):
+- **sketch.js**: the mother ship
+- **particle:system.js**: the particle system
+- **particle.js**: each single particle
+- **repeller.js**: each single repeller
+
+I encourage you to read Daniel Shiffman's [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/) and visit [his repositories on GitHub](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp04_systems/NOC_4_07_ParticleSystemForcesRepeller).
+
 ## Thanks
 I would like to thank Daniel Siffman from [The Nature of Code](http://natureofcode.com/) and his wonderful [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/). And I wouldn't have been able to do this without hte help of [Fabian Morón Zirfas](https://github.com/fabiantheblind).
 
