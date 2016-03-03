@@ -9,7 +9,7 @@ Seven particles start at once and fall down due to gravity force. Additionally, 
 [P5.js](http://p5js.org/) _"The power of Processing times the reach of JavaScript"_
 
 ## Thanks
-I would like to thank Daniel Siffman from [The Nature of Code](http://natureofcode.com/) and his helpful [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/).
+I would like to thank Daniel Siffman from [The Nature of Code](http://natureofcode.com/) and his wonderful [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/). And I wouldn't have been able to do this without hte help of [Fabian Morón Zirfas](https://github.com/fabiantheblind).
 
 ## License
 Copyright © 2015 Nikolas Ripka
