@@ -1,20 +1,19 @@
-COMING SOON!
-
-Picture
+![The algorithm in action](Algorithmus5.2.png)
 
 # Abstract
+A 
 
 # Prerequisites
 What is needed beforehand to run the project.
 
 # Dependencies
-What the project relies on.
+[P5.js](http://p5js.org/) "the power of Processing times the reach of JavaScript"
 
 # Installation
 How to install the project.
 
-# Usage
-How to use the project.
+# Thanks
+I would like to thank Daniel Siffman from [The Nature of Code](http://natureofcode.com/) and his helpful [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/).
 
 # License
 Copyright © 2015 Nikolas Ripka
