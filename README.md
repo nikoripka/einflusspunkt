@@ -5,6 +5,8 @@
 ## Abstract
 Seven particles start at once and fall down due to gravity force. Additionally, there are three dots of different sizes that have a repelling force on the particles. After a short time, the particles stop and their path becomes visible.
 
+[See it for yourself!](http://nikoripka.github.io/einflusspunkt/)
+
 ## Dependencies
 [P5.js](http://p5js.org/) _"The power of Processing times the reach of JavaScript"_
 
