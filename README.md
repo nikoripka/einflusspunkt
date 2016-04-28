@@ -20,7 +20,7 @@ There are four Javascript files (plus an html file):
 I encourage you to read Daniel Shiffman's [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/) and visit [his repositories on GitHub](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp04_systems/NOC_4_07_ParticleSystemForcesRepeller).
 
 ## Thanks
-I would like to thank Daniel Siffman from [The Nature of Code](http://natureofcode.com/) and his wonderful [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/). And I wouldn't have been able to do this without the help of [Fabian Morón Zirfas](https://github.com/fabiantheblind).
+I would like to thank Daniel Siffman from [The Nature of Code](http://natureofcode.com/) and his wonderful [chapter about particle systems](http://natureofcode.com/book/chapter-4-particle-systems/). And I wouldn't have been able to do this without the help from [Fabian Morón Zirfas](https://github.com/fabiantheblind).
 
 ## License
 Copyright © 2015 Nikolas Ripka
